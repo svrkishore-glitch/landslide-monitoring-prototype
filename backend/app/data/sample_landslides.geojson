@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "name": "sample_landslides",
+  "disclaimer": "Illustrative sample — not a reported landslide. These pins are invented for a map demo only.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-01",
+        "title": "Demo marker 01",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [91.75, 26.15] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-02",
+        "title": "Demo marker 02",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [91.88, 25.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-03",
+        "title": "Demo marker 03",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [93.95, 25.67] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-04",
+        "title": "Demo marker 04",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [93.94, 24.82] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-05",
+        "title": "Demo marker 05",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [92.72, 23.73] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-06",
+        "title": "Demo marker 06",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [91.48, 23.84] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-07",
+        "title": "Demo marker 07",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [88.61, 27.33] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "demo-08",
+        "title": "Demo marker 08",
+        "notice": "Illustrative sample — not a reported landslide.",
+        "source": "sample"
+      },
+      "geometry": { "type": "Point", "coordinates": [94.05, 27.1] }
+    }
+  ]
+}
